@@ -23,7 +23,6 @@ Arduinoen fungerer som hardware-interface mellom ultralydsensor og pumpe (via MO
 
 ```bash
 📂 docs/
-   ├── presentasjon.pdf             # Powerpoint presentasjon (.pdf format)
    ├── presentasjon.pptx            # Powerpoint presentasjon (.pptx format)
    └── koblingsskjema.pdf           # Koblingsskjema (.pdf)
 
@@ -32,8 +31,6 @@ Arduinoen fungerer som hardware-interface mellom ultralydsensor og pumpe (via MO
 📂 matlab/
    ├── LevelControl_2025a.slx       # Simulink-modell (.slx) for MATLAB 2025a
    └── LevelControl_2025a.slx       # Simulink-modell (.slx) for MATLAB 2025b
-
-📁 videos/                          # Video brukt i README
 
 README.md
 ```
