@@ -49,12 +49,6 @@ README.md
 * Arduino kjører kode generert fra Simulink og håndterer sensor og aktuator
 * Dashboard i Simulink mottar målerverdier fra Arduino og sender settpunkt tilbake
 
-## Blokkdiagram
-
-
-```md
-![Blokkdiagram](images/block_diagram.png)
-```
 
 ---
 
