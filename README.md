@@ -1,4 +1,4 @@
-# 💧 Nivåregulering av balansetank til saftpastør
+# Nivåregulering av balansetank til saftpastør
 
 Dette prosjektet implementerer et lukket reguleringssystem for nivåmåling og pumpekontroll.
 En MATLAB Simulink-modell kommuniserer med en Arduino Uno R4 WiFi via USB.
@@ -6,19 +6,12 @@ Arduinoen fungerer som hardware-interface mellom ultralydsensor og pumpe (via MO
 
 ---
 
-# 📷 Bilde av prosjektet
+# Bilde av prosjektet
 
 ![Bilde av prosjektet i drift](images/Bilde1-480x580.jpg)
 
-## 🎥 Video som viser prosjektet i drift
 
-<video src="https://github.com/aiboee/Semesterprosjekt-Gruppe11/raw/refs/heads/main/videos/Video1-540x960.mp4" controls type="video/mp4"></video>
-
-<p align="center" width="100%">
-<video src="https://github.com/aiboee/Semesterprosjekt-Gruppe11/raw/refs/heads/main/videos/Video1-540x960.mp4" width="80%" controls></video>
-</p>
-
-## 🖼️ Bilder
+## Bilder
 
 | Systemoversikt                        | Simulink-modell                         |
 | ------------------------------------- | --------------------------------------- |
@@ -26,7 +19,7 @@ Arduinoen fungerer som hardware-interface mellom ultralydsensor og pumpe (via MO
 
 ---
 
-# 📂 Prosjektstruktur
+# Prosjektstruktur
 
 ```bash
 📂 docs/
@@ -46,9 +39,9 @@ README.md
 ```
 ---
 
-# 🧠 Systemoversikt
+# Systemoversikt
 
-## 🔹 Beskrivelse
+## Beskrivelse
 
 
 * Simulink modell brukes for programmering av Arduino
@@ -56,7 +49,7 @@ README.md
 * Arduino kjører kode generert fra Simulink og håndterer sensor og aktuator
 * Dashboard i Simulink mottar målerverdier fra Arduino og sender settpunkt tilbake
 
-## 🔹 Blokkdiagram
+## Blokkdiagram
 
 
 ```md
@@ -65,7 +58,7 @@ README.md
 
 ---
 
-# ⚙️ Maskinvare
+# Maskinvare
 
 * PC til kjøring av MATLAB og Simulink
 * Arduino Uno R4 WiFi
@@ -74,7 +67,7 @@ README.md
 * Strømforsyning: 12 V blybatteri for drift av pumpe, Arduino forsynes via USB tilkobling til PC
 ---
 
-# 💻 Programvare
+# Programvare
 
 * MATLAB (versjon: 2025b)
 * Simulink
@@ -83,7 +76,7 @@ README.md
 
 ---
 
-# 🚀 Installasjon og bruk
+# Installasjon og bruk
 
 ## 1️⃣ Klon repoet
 
@@ -126,17 +119,8 @@ Gå til:
 
 ---
 
-# 📊 Funksjonalitet
 
-* ✅ Visualisering i Simulink
-* ✅ Sanntids kommunikasjon
-* ✅ Sensoravlesning
-* ✅ Aktuatorstyring
-* ⬜ Fremtidige forbedringer
-
----
-
-# 📄 Dokumentasjon
+# Dokumentasjon
 
 Full dokumentasjon finnes i:
 
@@ -146,31 +130,19 @@ Full dokumentasjon finnes i:
 
 Inneholder:
 
-* 📘 Presentasjon av prosjektet
-* 📐 Koblingsskjema
+* Presentasjon av prosjektet
+* Koblingsskjema
 
 ---
 
-# 🛠️ Videre arbeid
-
-* 
-* 
-* 
-* 
-
----
-
-# 👥 Bidragsytere
+# Bidragsytere
 
 Arnt Inge Bøe  
 Einar Lønne   
 Eirik Hausberg
 
-
-Automatisering / Fagskolen Rogaland  
-
 ---
 
-# 📜 Lisens
+# Lisens
 
 Kun for undervisningsformål.
