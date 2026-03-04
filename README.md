@@ -12,7 +12,7 @@ Arduinoen fungerer som hardware-interface mellom ultralydsensor og pumpe (via MO
 
 ## 🎥 Video som viser prosjektet i drift
 
-<video src="videos/Video1-540x960.mp4" controls></video>
+<video src="https://github.com/aiboee/Semesterprosjekt-Gruppe11/raw/refs/heads/main/videos/Video1-540x960.mp4" controls></video>
 
 
 ## 🖼️ Bilder
