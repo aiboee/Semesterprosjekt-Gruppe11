@@ -117,7 +117,7 @@ Gå til:
 * Velg **Run on board (External mode)**
 * Klikk **Monitor & Tune**
 
-## 5️⃣ Koble til Arduino
+## 5️⃣ Du er nå klar til å bruke prosjektet
 * Du kan nå justere settpunkt på dasboard i simulink
 * Du får grafisk visning av settpunkt, målt nivå og pådrag på pumpen
 
